@@ -1,0 +1,30 @@
+**/*.svg
+<<<<<<< HEAD
+package.json
+=======
+>>>>>>> 6a0aae43b07858239026a24113e28d85a78f03a1
+.umi
+.umi-production
+/dist
+.dockerignore
+.DS_Store
+.eslintignore
+*.png
+*.toml
+docker
+.editorconfig
+Dockerfile*
+.gitignore
+.prettierignore
+LICENSE
+.eslintcache
+*.lock
+yarn-error.log
+.history
+CNAME
+/build
+<<<<<<< HEAD
+/public
+=======
+/public
+>>>>>>> 6a0aae43b07858239026a24113e28d85a78f03a1

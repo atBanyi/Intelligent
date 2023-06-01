@@ -1,0 +1,49 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+**/node_modules
+# roadhog-api-doc ignore
+/src/utils/request-temp.js
+_roadhog-api-doc
+
+# production
+/dist
+
+# misc
+.DS_Store
+npm-debug.log*
+yarn-error.log
+
+/coverage
+.idea
+yarn.lock
+package-lock.json
+<<<<<<< HEAD
+pnpm-lock.yaml
+*bak
+=======
+*bak
+.vscode
+>>>>>>> 6a0aae43b07858239026a24113e28d85a78f03a1
+
+
+# visual studio code
+.history
+*.log
+functions/*
+.temp/**
+
+# umi
+.umi
+.umi-production
+<<<<<<< HEAD
+=======
+.umi-test
+>>>>>>> 6a0aae43b07858239026a24113e28d85a78f03a1
+
+# screenshot
+screenshot
+.firebase
+.eslintcache
+
+build
